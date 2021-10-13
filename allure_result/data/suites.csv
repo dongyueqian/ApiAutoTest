@@ -1,8 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Oct 13 18:24:41 CST 2021","Wed Oct 13 18:24:41 CST 2021","87","testcases","test_unnormal","","","","test_create_topic[topics_data1-400-标题不能为空]","创建主题，参数不合法"
-"passed","Wed Oct 13 18:24:41 CST 2021","Wed Oct 13 18:24:41 CST 2021","90","testcases","test_unnormal","","","","test_create_topic[topics_data2-400-必须选择一个版块]","创建主题，参数不合法"
-"skipped","Wed Oct 13 18:24:40 CST 2021","Wed Oct 13 18:24:40 CST 2021","0","testcases","test_topics","","","","test_create_topic","post /topics 新建主题"
-"passed","Wed Oct 13 18:24:41 CST 2021","Wed Oct 13 18:24:41 CST 2021","70","testcases","test_unnormal","","","","test_create_topic[topics_data3-400-内容不可为空]","创建主题，参数不合法"
-"passed","Wed Oct 13 18:24:40 CST 2021","Wed Oct 13 18:24:40 CST 2021","307","testcases","test_topics","","","","test_topics_index_page","get /topics 主题首页"
-"passed","Wed Oct 13 18:24:40 CST 2021","Wed Oct 13 18:24:41 CST 2021","683","testcases","test_unnormal","","","","test_create_topic[topics_data0-401-错误的accessToken]","创建主题，参数不合法"
-"passed","Wed Oct 13 18:24:40 CST 2021","Wed Oct 13 18:24:40 CST 2021","210","testcases","test_topics","","","","test_update_topic","post /topics/update 编辑主题"

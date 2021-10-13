@@ -93,3 +93,17 @@
 [2021-10-13 19:00:21,770] [DEBUG] [test_create_topic] 发送请求: <Response [400]> 
 [2021-10-13 19:00:21,840] [DEBUG] [test_create_topic] 发送请求: <Response [400]> 
 [2021-10-13 19:00:21,918] [DEBUG] [test_create_topic] 发送请求: <Response [400]> 
+[2021-10-13 19:25:44,704] [DEBUG] [test_topics_index_page] 发送请求: <Response [200]> 
+[2021-10-13 19:25:44,790] [DEBUG] [test_update_topic] 发送请求: <Response [200]> 
+[2021-10-13 19:25:44,864] [DEBUG] [test_update_topic] 发送请求: <Response [200]> 
+[2021-10-13 19:25:45,673] [DEBUG] [test_create_topic] 发送请求: <Response [401]> 
+[2021-10-13 19:25:45,747] [DEBUG] [test_create_topic] 发送请求: <Response [400]> 
+[2021-10-13 19:25:45,821] [DEBUG] [test_create_topic] 发送请求: <Response [400]> 
+[2021-10-13 19:25:45,895] [DEBUG] [test_create_topic] 发送请求: <Response [400]> 
+[2021-10-13 19:26:30,683] [DEBUG] [test_topics_index_page] 发送请求: <Response [200]> 
+[2021-10-13 19:26:30,768] [DEBUG] [test_update_topic] 发送请求: <Response [200]> 
+[2021-10-13 19:26:30,836] [DEBUG] [test_update_topic] 发送请求: <Response [200]> 
+[2021-10-13 19:26:31,745] [DEBUG] [test_create_topic] 发送请求: <Response [401]> 
+[2021-10-13 19:26:31,816] [DEBUG] [test_create_topic] 发送请求: <Response [400]> 
+[2021-10-13 19:26:31,887] [DEBUG] [test_create_topic] 发送请求: <Response [400]> 
+[2021-10-13 19:26:32,731] [DEBUG] [test_create_topic] 发送请求: <Response [400]> 
