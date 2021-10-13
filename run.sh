@@ -2,4 +2,4 @@
 #pytest testcases --html=./reports/report.html --self-contained-html
 #pytest --alluredir ./reports/json
 main.py
-allure generate reports/json -o reports/allure_result/
+# allure generate reports/json -o reports/allure_result/
