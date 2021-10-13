@@ -1,1 +1,0 @@
-[35mDEBUG   [0m apitest:test_unnormal.py:23 发送请求: <Response [401]>

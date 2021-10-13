@@ -1,1 +1,0 @@
-[35mDEBUG   [0m apitest:test_topics.py:18 发送请求: <Response [200]>

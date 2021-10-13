@@ -1,2 +1,0 @@
-[35mDEBUG   [0m apitest:test_topics.py:53 发送请求: <Response [200]>
-[35mDEBUG   [0m apitest:test_topics.py:65 发送请求: <Response [200]>
