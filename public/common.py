@@ -1,7 +1,6 @@
 import requests
 
 # 公用方法
-
 def get_accesstoken():
     return "1e0d9ca5-4ff3-4ce6-918d-8ba853ed6694"
 

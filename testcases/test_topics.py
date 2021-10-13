@@ -1,5 +1,4 @@
 import datetime
-
 import pytest
 import requests
 from public import common
