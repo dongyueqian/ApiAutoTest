@@ -1,0 +1,2 @@
+{'success': True, 'topic_id': '6166b3efc44b97666de4fd6e'}
+{'success': True, 'data': {'id': '6166b3efc44b97666de4fd6e', 'author_id': '60e592e1e14a422006d96661', 'tab': 'ask', 'content': '<div class="markdown-text"><p>测一下更新，打扰啦，抱歉抱歉～</p>\n</div>', 'title': '更新主题--测试2021-10-13 18:24:40', 'last_reply_at': '2021-10-13T10:24:47.557Z', 'good': False, 'top': False, 'reply_count': 0, 'visit_count': 1, 'create_at': '2021-10-13T10:24:47.557Z', 'author': {'loginname': 'btester', 'avatar_url': '/public/images/userlogo.png'}, 'replies': [], 'is_collect': False}}
