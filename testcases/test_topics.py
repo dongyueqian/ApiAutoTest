@@ -1,12 +1,13 @@
 import datetime
-
 import pytest
 import requests
 from public import common
 from public.logger import logger
+import allure
 
 base_url = "http://47.100.175.62:3000/api/v1"
 
+@allure.story("主题首页")
 def test_topics_index_page():
     '''get /topics 主题首页'''
     params = {
@@ -25,6 +26,7 @@ def test_topics_index_page():
         print('----断言----')
 
 @pytest.mark.skip(reason="跳过创建主题用例")
+@allure.story("创建主题")
 def test_create_topic():
     '''post /topics 新建主题'''
     topics_data = {
@@ -42,6 +44,7 @@ def test_create_topic():
     r2 = common.create_topics(topics_data)
     assert r2.json()["topic_id"] != r.json()["topic_id"]
 
+@allure.story("更新主题")
 def test_update_topic():
     '''post /topics/update 编辑主题'''
     topics_data = {
